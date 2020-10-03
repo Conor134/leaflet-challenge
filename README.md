@@ -12,5 +12,5 @@ Below is an example of the webpage - the ground was a shaking in Alaska at when 
 
 To launch the webpage, all you have to do is launch the index.html file. Move around a little to see where its been shaking recently!
 
-# How to?
+## How to?
 Please navigate directly to [here](https://github.com/Conor134/leaflet-challenge).
