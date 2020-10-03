@@ -8,7 +8,7 @@ The data was retreived in GeoJson format from [this](https://earthquake.usgs.gov
 
 Below is an example of the webpage - the ground was a shaking in Alaska at when this image was created! 
 
-![webpage](Leaflet-Step-1\Images/WebPage.png)
+![webpage](Leaflet-Step-1/Images/WebPage.png)
 
 To launch the webpage, all you have to do is launch the index.html file. Move around a little to see where its been shaking recently!
 
